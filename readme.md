@@ -16,3 +16,5 @@ This code is written in python and it basically uses ggntw api to download the m
 Successful links will be put in success.txt.
 
 If the downloader cant download one file, download it manually but make sure to stop the code so it can write to success.txt (and also remove previously downloaded mods from list.txt).
+
+###### protected by MIT license you are granted permission to use, modify, and distribute the software, with the condition that the original copyright notice and the license text are retained in the redistributed software. ######
